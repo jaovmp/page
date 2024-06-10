@@ -1,0 +1,27 @@
+.textos{
+    text-align: justify;
+    width: 600px;
+}
+
+.titulo{
+    font-size: 60px;
+}
+
+.sobre{
+    font-size: 27px;
+}
+
+.minhafoto{
+    width: 330px;
+    border-radius: 200px;
+}
+
+.box{
+    display: flex;
+    gap: 80px;
+    margin-left: 15%;
+}
+
+strong{
+    color: aqua;
+}

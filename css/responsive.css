@@ -1,0 +1,46 @@
+@media (max-width: 1200px){
+    .box{
+        margin-right: 10em;
+        margin-top: 50px;
+    }
+
+    .box .minhafoto{
+        margin-top: 50px;
+    }
+
+    .textos{
+        width: 100%;
+        text-align: left;
+    }
+}
+
+@media (max-width: 800px){
+    .box{
+        flex-direction: column;
+    }
+
+    .textos{
+        text-align: justify;
+        width: 130%;
+        margin-left: -2em;
+    }
+
+    .textos h1{
+        margin-bottom: 5px;
+        margin-left: 24%;
+    }
+    
+    .minhafoto{
+        margin-left: 90px;
+        margin-top: 0%;
+    }
+
+    .secundaria{
+        margin-left: 180px;
+    }
+
+    .textocertificate{
+        margin-left: 70px;
+    }
+    
+}
